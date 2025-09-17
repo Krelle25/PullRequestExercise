@@ -4,3 +4,9 @@ System.out.println("Hello, World!");
 System.out.println("This is a new line added to the README file.");
 System.out.println("Another line added for demonstration purposes.");
 System.out.println("Final line in the README file.");
+
+System.out.println("End of the README file.");
+
+System.out.println("This line was added later.");
+System.out.println("This is the last line of the README file.");
+System.out.println("This line was added in a new commit.");
