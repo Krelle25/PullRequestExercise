@@ -1,3 +1,6 @@
-Det her er en README-fil i src/main-mappen.
+Det her er den nyeste ændring i readme filen.txt;
 
-Det her er endnu en linje i README-filen.
+System.out.println("Hello, World!");
+System.out.println("This is a new line added to the README file.");
+System.out.println("Another line added for demonstration purposes.");
+System.out.println("Final line in the README file.");
